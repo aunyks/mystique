@@ -1,0 +1,30 @@
+{
+  "name": "mystique",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "privacy",
+    "identity",
+    "crypto",
+    "finance",
+    "cryptography",
+    "cryptocurrency",
+    "encryption"
+  ],
+  "author": "Gerald Nash (https://aunyks.com/) <me@aunyks.com>",
+  "license": "LGPL",
+  "dependencies": {
+    "bip32": "^1.0.2",
+    "bip39": "^2.5.0",
+    "bitcoinjs-lib": "^4.0.2",
+    "ethereumjs-wallet": "^0.6.3",
+    "openpgp": "^4.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
