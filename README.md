@@ -1,5 +1,5 @@
 # mystique
-Create a identities in a cinch!
+Create new identities in a cinch!
 
 ### What?
 Mystique is a JavaScript library that enables rapid creation of new cryptographic keypairs: just one line lets you generate an entirely new online identity. At this point in time, Mystique enables creation of PGP, Bitcoin, and Ethereum keys, and more will be available in the future!  
