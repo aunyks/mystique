@@ -11,5 +11,5 @@ In many cases, your online identity is the collection of your cryptographic keyp
 Docs coming soon! For now, take a look at the (small and readable) codebase to see how things work.
 
 ## LICENSE
-Copyright (c) 2018 Gerald Nash
+Copyright (c) 2018 Gerald Nash  
 Licensed under the GNU Lesser General Public License Version 3 (LGPLv3)
