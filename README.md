@@ -1,6 +1,12 @@
 # mystique
 Create new identities in a cinch!
 
+## How?
+To use mystique in your project, execute the following line in your terminal!
+```
+npm i -S mystique-lib
+```
+
 ## What?
 Mystique is a JavaScript library that enables rapid creation of new cryptographic keypairs: just one line lets you generate an entirely new online identity. At this point in time, Mystique enables creation of PGP, Bitcoin, and Ethereum keys, and more will be available in the future!  
 
