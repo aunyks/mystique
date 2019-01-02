@@ -26,7 +26,8 @@ Ethereum is the most popular expressive decentralized cryptocurrency to exist. T
 Docs coming soon! For now, take a look at the (small and readable) codebase to see how things work.  
 
 ## What have people made with this?
-Nothing yet. I'm making something interesting with it though, so stay tuned!
+- [Mystique CLI](https://github.com/aunyks/mystique-cli): Create new identities from the terminal!  
+If you've made something with Mystique and want it featured here! Open an issue or PR!
 
 ## LICENSE
 Copyright (c) 2018 Gerald Nash  
