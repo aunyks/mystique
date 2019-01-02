@@ -27,7 +27,7 @@ Docs coming soon! For now, take a look at the (small and readable) codebase to s
 
 ## What have people made with this?
 - [Mystique CLI](https://github.com/aunyks/mystique-cli): Create new identities from the terminal!  
-If you've made something with Mystique and want it featured here! Open an issue or PR!
+If you've made something with Mystique and want it featured here, open an issue or PR!
 
 ## LICENSE
 Copyright (c) 2018 Gerald Nash  
